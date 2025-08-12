@@ -7,7 +7,7 @@ The raw data necessary to train the machine learning models in the manuscript ar
 
 The pickle files are also included so that the model weights used for the breeding portion of the paper can be replicated. To test this, you will just need to use the pickle file when running the script and run only the AFTC data (The pickle files/weights were created by training on the data that were not part of the AFTC test).
 
-Data have been anonymized because they are being used as part of an ongoing breeding program and associated research effort.
+Entries have been anonymized because they are being used as part of an ongoing breeding program and associated research effort.
 
 If you find the Python script, the article, or the data helpful, please cite our work:
 *Citation here*
