@@ -9,5 +9,5 @@ The "pickle" files are also included so that the model weights used for the bree
 
 Entries have been anonymized because they are being used as part of an ongoing breeding program and associated research effort.
 
-If you find the Python script, the model weights, or the data helpful, please cite our work:
+**If you find the Python script, the model weights, or the data helpful, please cite our work:**
 *Citation here*
